@@ -1,1 +1,0 @@
-# vue-javascript-my-template
